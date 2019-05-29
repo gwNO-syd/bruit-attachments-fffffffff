@@ -1,0 +1,20 @@
+
+16:36:29	click	//body[0]/app-root[0]/ol[0]/li[3]/bruit-io/a 
+	
+16:34:36	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"properties":{},"parent":null,"name":"","zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+16:32:36	POST =>	http://localhost:3334/feedback/multipart	
+16:32:32	click	//body[0]/app-root[0]/ol[0]/li[3]/bruit-io/a 
+	
+16:29:37	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"properties":{},"parent":null,"name":"","zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+16:27:37	POST =>	http://localhost:3334/feedback/multipart	
+16:27:33	click	//body[0]/app-root[0]/ol[0]/li[3]/bruit-io/a 
+	
+16:27:25	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"properties":{},"parent":null,"name":"","zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+16:26:14	POST =>	http://localhost:3334/feedback/multipart	
+16:26:07	click	//body[0]/app-root[0]/ol[0]/li[3]/bruit-io/a 
+	
+16:23:57	error	BRUIT.IO error :, {"oldonreadystatechange":null,"zonesymbolONPROPERTYreadystatechange":null,"zonesymbolreadystatechangefalse":{"zone":{"properties":{},"parent":null,"name":"","zoneDelegate":{"taskCounts":{"microTask":0,"macroTask":0,"eventTask":0},"zone":{"$ref":"$[\"	
+16:21:57	POST =>	http://localhost:3334/feedback/multipart	
+16:21:54	click	//body[0]/app-root[0]/ol[0]/li[3]/bruit-io/a 
+	
+16:21:53	url	http://localhost:4201/get-started	
